@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Library>
+	<Catalogue category="Technical">
+		<Book ISBN="1111">
+			<title>Digital Minimalism: Choosing Focused Life in a Noisy World</title>
+			<author>Cal Newport</author>
+		</Book>
+		<Book ISBN="1112">
+			<title>Steve Jobs</title>
+			<author>Walter Isaacson</author>
+		</Book>
+	</Catalogue>
+	<Catalogue category="Cookery">
+		<Book ISBN="2221">
+			<title>Salt Fat Acid Heat</title>
+			<author>Samin Nosrat</author>
+		</Book>
+		<Book ISBN="2222">
+			<title>How to eat</title>
+			<author>Nigella Lawson</author>
+		</Book>
+	</Catalogue>
+</Library>
